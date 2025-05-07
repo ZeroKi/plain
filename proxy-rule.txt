@@ -1,3 +1,5 @@
 payload:
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,adrules.top
+  - DOMAIN-SUFFIX,sagernet.org
+  
