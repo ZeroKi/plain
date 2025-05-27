@@ -3,3 +3,4 @@ payload:
   - DOMAIN,adrules.top
   - DOMAIN-SUFFIX,sagernet.org
   - DOMAIN-SUFFIX,baeldung.com
+  - DOMAIN-SUFFIX,skrbtgb.top
