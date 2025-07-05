@@ -1,7 +1,12 @@
 payload:
   - DOMAIN,cdn.jsdelivr.net
-  - DOMAIN,adrules.top
+  - DOMAIN-SUFFIX,adrules.top
   - DOMAIN-SUFFIX,sagernet.org
   - DOMAIN-SUFFIX,baeldung.com
   - DOMAIN-KEYWORD,skrbt
   - DOMAIN,artifacts.bitwarden.com
+  - DOMAIN-SUFFIX,akfamily.xyz
+  - DOMAIN-SUFFIX,max.codes
+  - DOMAIN-SUFFIX,macbartender.com
+  - DOMAIN-SUFFIX,iterm2.com
+
