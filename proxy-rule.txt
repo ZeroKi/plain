@@ -9,4 +9,4 @@ payload:
   - DOMAIN-SUFFIX,max.codes
   - DOMAIN-SUFFIX,macbartender.com
   - DOMAIN-SUFFIX,iterm2.com
-
+  - DOMAIN-KEYWORD,v2ex
