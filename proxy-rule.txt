@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,iterm2.com
   - DOMAIN-KEYWORD,v2ex
   - DOMAIN-SUFFIX,maven.org
+  - DOMAIN-SUFFIX,githubusercontent.com
